@@ -18,7 +18,7 @@ exports.seed = function(knex) {
               },
               {
                 name: "Southwest",
-                destinations_flown_to: ["New Zealeand", "Tristan de Cunha", "Minnesota"]
+                destinations_flown_to: ["New Zealand", "Tristan de Cunha", "Minnesota"]
               },
         ]);
       });
